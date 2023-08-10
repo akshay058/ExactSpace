@@ -1,3 +1,4 @@
+# Level - 1 (BASH): Find the largest log file in computer (x.log) and truncate it to 100 lines.
 #!/bin/bash
 
 log_file="x.log"
